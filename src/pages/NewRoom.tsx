@@ -6,7 +6,7 @@ import logoImg from '../assets/images/logo.svg';
 
 import { useAuth } from '../hooks/useAuth';
 
-import { Button } from '../componentes/Button';
+import { Button } from '../components/Button';
 import { database } from '../services/firebase';
 
 import '../styles/auth.scss';

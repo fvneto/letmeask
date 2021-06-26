@@ -4,7 +4,7 @@ import ilustration from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
 import googleIconImage from '../assets/images/google-icon.svg';
 
-import { Button } from '../componentes/Button';
+import { Button } from '../components/Button';
 
 import { useAuth } from '../hooks/useAuth';
 
