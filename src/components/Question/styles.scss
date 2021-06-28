@@ -17,7 +17,7 @@
     }
   }
 
-  & + .answered {
+  &.answered {
     background: #DBDCDD;
 
   }
@@ -48,6 +48,11 @@
         font-size: 14px;
       }
 
+    }
+
+    > div {
+      display: flex;
+      gap: 16px;
     }
 
     button {
